@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Page Utest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-11T02:25:43" hostname="DESKTOP-LBC366T" time="134.068">
+  <properties/>
+  <testcase name="SingUp in the page Utest" classname="Page Utest" time="134.068"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@63f68242
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7ad44d59
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@51bc8ae4
+oct 10, 2021 9:25:47 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 93.0.4577.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 19888
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1633919179.604][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
+oct 10, 2021 9:26:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@9d63c25
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2ddf80a7
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1a54cc33
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1342f3e8
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4d57036b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME, actor enters 'Andrea' into LAST NAME]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@10e67999
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME, actor enters 'Andrea' into LAST NAME, actor enters 'ejemploYessika@ejemplo.com' into EMAIL]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME, actor enters 'Andrea' into LAST NAME, actor enters 'ejemploYessika@ejemplo.com' into EMAIL]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME, actor enters 'Andrea' into LAST NAME, actor enters 'ejemploYessika@ejemplo.com' into EMAIL]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@b6b6ddb
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME, actor enters 'Andrea' into LAST NAME, actor enters 'ejemploYessika@ejemplo.com' into EMAIL]], Then she can singup in the page utest
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME, actor enters 'Andrea' into LAST NAME, actor enters 'ejemploYessika@ejemplo.com' into EMAIL]], Then she can singup in the page utest
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME, actor enters 'Andrea' into LAST NAME, actor enters 'ejemploYessika@ejemplo.com' into EMAIL]], Then she can singup in the page utest]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [SingUp in the page Utest:Given than Yessika wants join in utest [Actor open up [actor opens the Utest page, actor clicks on SignUp for Utest]], When she do click in jointoday [Actor sign up [actor enters 'Yessika' into FIRST NAME, actor enters 'Andrea' into LAST NAME, actor enters 'ejemploYessika@ejemplo.com' into EMAIL]], Then she can singup in the page utest]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: SingUp in the page Utest
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
